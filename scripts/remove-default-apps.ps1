@@ -18,13 +18,13 @@ $apps = @(
     "Microsoft.BingSports"
     "Microsoft.BingTranslator"
     "Microsoft.BingWeather"
-    #"Microsoft.FreshPaint"
+    "Microsoft.FreshPaint"
     "Microsoft.Microsoft3DViewer"
     "Microsoft.MicrosoftOfficeHub"
     "Microsoft.MicrosoftSolitaireCollection"
     "Microsoft.MicrosoftPowerBIForWindows"
     "Microsoft.MinecraftUWP"
-    #"Microsoft.MicrosoftStickyNotes"
+    "Microsoft.MicrosoftStickyNotes"
     "Microsoft.NetworkSpeedTest"
     "Microsoft.Office.OneNote"
     #"Microsoft.OneConnect"
@@ -40,7 +40,6 @@ $apps = @(
     "Microsoft.WindowsMaps"
     "Microsoft.WindowsPhone"
     "Microsoft.WindowsSoundRecorder"
-    #"Microsoft.WindowsStore"   # can't be re-installed
     "Microsoft.XboxApp"
     "Microsoft.XboxGameOverlay"
     "Microsoft.XboxGamingOverlay"
@@ -48,8 +47,7 @@ $apps = @(
     "Microsoft.Xbox.TCUI"
     "Microsoft.ZuneMusic"
     "Microsoft.ZuneVideo"
-    
-    
+
     # Threshold 2 apps
     "Microsoft.CommsPhone"
     "Microsoft.ConnectivityStore"
@@ -110,7 +108,7 @@ $apps = @(
     "SpotifyAB.SpotifyMusic"
     "A278AB0D.DisneyMagicKingdoms"
     "WinZipComputing.WinZipUniversal"
-    "CAF9E577.Plex"  
+    "CAF9E577.Plex"
     "7EE7776C.LinkedInforWindows"
     "613EBCEA.PolarrPhotoEditorAcademicEdition"
     "Fitbit.FitbitCoach"
